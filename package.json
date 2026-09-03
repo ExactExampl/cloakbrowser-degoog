@@ -1,0 +1,9 @@
+{
+  "name": "cloakbrowser-server",
+  "type": "module",
+  "dependencies": {
+    "cloakbrowser": "latest",
+    "playwright-core": "latest"
+  }
+}
+
